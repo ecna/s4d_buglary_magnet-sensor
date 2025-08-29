@@ -4,7 +4,7 @@
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": -141.34, "left": -29.33, "attrs": {} },
-    { "type": "chip-chip-magnet-sensor", "id": "magnet", "top": 96, "left": 134.4, "attrs": {} }
+    { "type": "chip-magnet-sensor", "id": "magnet", "top": 96, "left": 134.4, "attrs": {} }
   ],
   "connections": [
     [ "uno:GND.2", "magnet:GND", "black", [ "v0" ] ],

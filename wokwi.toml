@@ -4,5 +4,5 @@ elf = 'test/magnet/build/arduino.avr.uno/magnet.ino.elf'
 firmware = 'test/magnet/build/arduino.avr.uno/magnet.ino.hex'
 
 [[chip]]
-name = 'chip-magnet-sensor'
+name = 'magnet-sensor'
 binary = 'dist/magnet-sensor-chip.wasm'
