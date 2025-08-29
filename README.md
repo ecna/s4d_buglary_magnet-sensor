@@ -1,7 +1,7 @@
 # chip-magnet-sensor for S4D minor barglary alarm
 
 
-The actual source code for the chip lives in [src/main.c](src/magnet-sensor-chip.c), and the pins are described in [magnet-sensor-chip.json](magnet-sensor-chip.json).
+The actual source code for the chip lives in [src/magnet-sensor-chip.c](src/magnet-sensor-chip.c), and the pins are described in [magnet-sensor-chip.json](magnet-sensor-chip.json).
 
 ## Building
 
